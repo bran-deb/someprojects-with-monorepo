@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "co": "sui-mono commit"
+  },
   "dependencies": {
     "@s-ui/mono": "^2.22.0"
   }
