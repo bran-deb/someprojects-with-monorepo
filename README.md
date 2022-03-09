@@ -1,2 +1,2 @@
-# small-proyects
+# small-projects
  * SPA
